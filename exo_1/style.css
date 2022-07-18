@@ -1,7 +1,7 @@
 main {
     height: 200px;
     width: 200px;
-    border: solid 2px rgb(33, 135, 182);
+    border: solid 4px rgb(33, 135, 182);
 }
 
 .dynamicStyle {
